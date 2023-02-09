@@ -1,0 +1,15 @@
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.csproj.AssemblyReference.cache
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.AssemblyInfoInputs.cache
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.AssemblyInfo.cs
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.csproj.CoreCompileInputs.cache
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\bin\Debug\net6.0\cadastroMedico.exe
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\bin\Debug\net6.0\cadastroMedico.deps.json
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\bin\Debug\net6.0\cadastroMedico.runtimeconfig.json
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\bin\Debug\net6.0\cadastroMedico.dll
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\bin\Debug\net6.0\cadastroMedico.pdb
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.dll
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\refint\cadastroMedico.dll
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.pdb
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\cadastroMedico.genruntimeconfig.cache
+C:\Users\joyce\source\repos\Bytebank\cadastroMedico\obj\Debug\net6.0\ref\cadastroMedico.dll
